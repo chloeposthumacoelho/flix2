@@ -2,7 +2,7 @@
 
 
 Grid view:
-
+User can tap a tab bar button to view a grid layout of Movie Posters using a Collection View
 ![flix2gridview](https://user-images.githubusercontent.com/96831510/192106390-05c011d7-4caa-4920-9ff8-6142e6945127.gif)
 
 https://user-images.githubusercontent.com/96831510/190870925-c3a65f7b-ded0-437f-9c7d-7e457fc1a2e3.mov
